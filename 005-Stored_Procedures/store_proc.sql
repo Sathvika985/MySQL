@@ -23,5 +23,5 @@ BEGIN
 END;
 
 -- let's use this procedure
-CALL display_table('Cities');
+CALL display_table('Countries');
 
